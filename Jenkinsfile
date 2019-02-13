@@ -4,5 +4,5 @@
 
 
 gitTerraform {
-
+    String pipelineImage = 'stakater/pipeline-tools:v1.16.9'
 }
